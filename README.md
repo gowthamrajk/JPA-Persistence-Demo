@@ -14,7 +14,7 @@
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=DD0031&logo=Java&logoColor=FFFFFF&label=)
 ![hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=hibernate&color=59666C&logo=hibernate&logoColor=FFFFFF&label=)
-![jpa](https://img.shields.io/static/v1?style=for-the-badge&message=jpa&color=59666C&logo=jpa&logoColor=FFFFFF&label=)
+![jpa](https://img.shields.io/static/v1?style=for-the-badge&message=jpa&color=green&logo=jpa&logoColor=FFFFFF&label=)
 
 ## Database 🥅
 
